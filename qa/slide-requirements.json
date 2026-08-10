@@ -5,9 +5,9 @@
   {"requirement":"第二板块第一页对比豆包、DeepSeek、Kimi、Claude、ChatGPT、Gemini、千问的定位优势、适用任务与付费情况","slideIds":["ai-positioning"],"evidence":"v7/06-ai-positioning.png full-size capture","status":"pass"},
   {"requirement":"第二板块第二页呈现国内与海外用户规模，并保留 MAU、WAU、DAU 等原始统计口径","slideIds":["ai-user-scale"],"evidence":"v7/07-ai-user-scale.png full-size capture","status":"pass"},
   {"requirement":"第二板块第三页给出按任务选择 AI 的汇报结论","slideIds":["ai-selection-conclusion"],"evidence":"v7/08-ai-selection-conclusion.png full-size capture","status":"pass"},
-  {"requirement":"第三板块提供从任务简报到交付核验的实际操作过程","slideIds":["context-engineering","research","vibe-coding","coding-loop","full-stack"],"evidence":"08–12 full-size captures","status":"pass"},
-  {"requirement":"第四板块介绍插件与连接器，并强调按问题选择","slideIds":["agent","disciplines"],"evidence":"13–14 full-size captures","status":"pass"},
-  {"requirement":"第五板块表达人的理解、创造、沟通和责任","slideIds":["risk-and-future"],"evidence":"15-risk-and-future.png","status":"pass"},
+  {"requirement":"第三板块以真实防台风网页为案例，展示提出需求、提供材料、补图迭代、失败重试和 GitHub Pages 交付","slideIds":["typhoon-result","typhoon-brief","typhoon-iteration","typhoon-publish","typhoon-method"],"evidence":"v9/10-typhoon-result.png through v9/14-typhoon-method.png full-size captures","status":"pass"},
+  {"requirement":"第四板块介绍插件与连接器，并强调按问题选择","slideIds":["agent","disciplines"],"evidence":"v9/16-agent.png and v9/17-disciplines.png full-size captures","status":"pass"},
+  {"requirement":"第五板块表达人的理解、创造、沟通和责任","slideIds":["risk-and-future"],"evidence":"v9/19-risk-and-future.png","status":"pass"},
   {"requirement":"不出现已删除的指定表达，也不保留结尾二维码","slideIds":["opening","risk-and-future"],"evidence":"repository text search returned no match; final capture contains no QR","status":"pass"},
-  {"requirement":"20 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v7 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
+  {"requirement":"19 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v8 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
 ]

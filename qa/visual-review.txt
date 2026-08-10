@@ -36,3 +36,11 @@ V7 second-section rebuild — 20 slides:
 - 08-ai-selection-conclusion.png: eight task-to-tool recommendations scan cleanly in a two-column grid; closing selection sequence is dominant.
 - Brand icons are frozen local assets sourced from the corresponding official product domains via the public favicon endpoint.
 - New assets resolve locally; dynamic numbering, keyboard behavior, metadata, transforms, and three viewport sizes pass automated verification.
+
+V9 third-section case rebuild — 19 slides:
+- 10-typhoon-result.png: final live page is dominant and legible; the left column states the real demand and first-round timing without overstating automation.
+- 11-typhoon-brief.png: both original conversation screenshots are fully visible; labels separate supplied materials from the requested outcome.
+- 12-typhoon-iteration.png: successful image insertion and the temporary-file failure/reupload are shown side by side as an honest iteration record.
+- 13-typhoon-publish.png: GitHub Pages request, confirmation, final page, HTTPS status, and clickable live URL form a complete delivery proof.
+- 14-typhoon-method.png: human and AI responsibilities remain distinct; the five-step transferable loop and takeaway are readable at projector scale.
+- No screenshot clipping, broken local assets, transition residue, or footer collisions observed. V8 stage verification passes at all required viewport sizes.
