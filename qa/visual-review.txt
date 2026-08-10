@@ -1,18 +1,19 @@
-Full-size review completed for 01-opening.png through 14-risk-and-future.png.
+Full-size review completed for 01-opening.png through 15-risk-and-future.png.
 
 01 pass — hero crop, left title contrast, bottom chrome safe.
-02 pass — deliberate low-text audience interaction slide; strong hierarchy.
-03 pass — orbit diagram centered; nodes remain legible and balanced.
-04 pass — asymmetric numeral composition; no clipping.
-05 pass — comparison matrix readable; no over-dense copy.
-06 pass — process cards and arrows centered; compliance note clearly visible.
-07 pass — prompt example and formula balanced; paragraph wraps safely.
-08 pass — paper metaphor and checklist readable; no collision.
-09 pass — generated image crop supports left-bottom title; contrast passes.
-10 pass — four-step build loop and warning clear.
-11 pass — full-stack layers balanced; text readable.
-12 pass — agent flow fits within stage; bottom loop note safe.
-13 pass — six-disciplinary grid and takeaway hierarchy clear.
-14 pass — final Pages QR embedded and layout remains balanced.
+02 pass — agenda is deliberately concise; five sections are clear at a glance.
+03 pass — terminology cards remain legible and balanced.
+04 pass — agent relationship diagram centered; nodes and connectors are clear.
+05 pass — model/product/agent distinction uses strong hierarchy without clipping.
+06 pass — domestic/foreign comparison matrix readable; no over-dense copy.
+07 pass — practical-start process cards and arrows remain centered.
+08 pass — task brief formula and example balanced; paragraph wraps safely.
+09 pass — agriculture paper metaphor and checklist readable; no collision.
+10 pass — generated image crop supports left-bottom title; contrast passes.
+11 pass — four-step general method and delivery warning clear.
+12 pass — signup-tool delivery cards balanced; text readable.
+13 pass — plugin connection flow fits within stage; bottom note safe.
+14 pass — six plugin categories and selection principle are readable.
+15 pass — personal-view close has strong hierarchy, no QR, and no clipping.
 
 No transition residue, adjacent-slide ghosting, broken assets, or bottom chrome collisions observed.

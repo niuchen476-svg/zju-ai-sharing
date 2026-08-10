@@ -1,9 +1,10 @@
 [
-  {"requirement":"主题为《今天，我们怎么用 AI 做事？》","slideIds":["opening","risk-and-future"],"evidence":"01-opening.png, 14-risk-and-future.png","status":"pass"},
-  {"requirement":"从不同专业的真实任务出发","slideIds":["icebreaker","research","agent","disciplines"],"evidence":"02, 08, 12, 13 full-size captures","status":"pass"},
-  {"requirement":"说明国内外 AI 选择和开始使用路径","slideIds":["model-comparison","global-access"],"evidence":"05, 06 full-size captures","status":"pass"},
-  {"requirement":"提供具体的 AI 做事方法","slideIds":["context-engineering","coding-loop"],"evidence":"07, 10 full-size captures","status":"pass"},
-  {"requirement":"保留人的理解、判断、沟通和责任主线","slideIds":["capability-boundary","full-stack","risk-and-future"],"evidence":"04, 11, 14 full-size captures","status":"pass"},
-  {"requirement":"不出现已删除的指定表达","slideIds":["opening"],"evidence":"repository text search returned no match","status":"pass"},
-  {"requirement":"HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
+  {"requirement":"主题为《今天，我们怎么用 AI 做事？》并在封面后设置目录","slideIds":["opening","agenda"],"evidence":"01-opening.png, 02-agenda.png","status":"pass"},
+  {"requirement":"第一板块解释 Skill、Tool、Loop、Harness、MCP、OpenClaw 等术语","slideIds":["icebreaker","ai-map","capability-boundary"],"evidence":"03–05 full-size captures","status":"pass"},
+  {"requirement":"第二板块按任务分析国内外模型和产品选择","slideIds":["model-comparison","global-access"],"evidence":"06–07 full-size captures","status":"pass"},
+  {"requirement":"第三板块提供从任务简报到交付核验的实际操作过程","slideIds":["context-engineering","research","vibe-coding","coding-loop","full-stack"],"evidence":"08–12 full-size captures","status":"pass"},
+  {"requirement":"第四板块介绍插件与连接器，并强调按问题选择","slideIds":["agent","disciplines"],"evidence":"13–14 full-size captures","status":"pass"},
+  {"requirement":"第五板块表达人的理解、创造、沟通和责任","slideIds":["risk-and-future"],"evidence":"15-risk-and-future.png","status":"pass"},
+  {"requirement":"不出现已删除的指定表达，也不保留结尾二维码","slideIds":["opening","risk-and-future"],"evidence":"repository text search returned no match; final capture contains no QR","status":"pass"},
+  {"requirement":"15 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
 ]
