@@ -29,3 +29,10 @@ V6 first-section revision — 19 slides:
 - 04-terms-table.png consolidates nine terms into one three-column reference table.
 - Full-size review passes for table alignment, row density, contrast, wrapping, footer safety, and projector readability.
 - Dynamic renumbering and all presentation interactions pass automated verification at three viewport sizes.
+
+V7 second-section rebuild — 20 slides:
+- 06-ai-positioning.png: seven-product comparison table passes logo scale, density, wrapping, contrast, price-label, and footer checks.
+- 07-ai-user-scale.png: domestic MAU bars and overseas metric cards remain visually separated; metric labels prevent false direct comparison.
+- 08-ai-selection-conclusion.png: eight task-to-tool recommendations scan cleanly in a two-column grid; closing selection sequence is dominant.
+- Brand icons are frozen local assets sourced from the corresponding official product domains via the public favicon endpoint.
+- New assets resolve locally; dynamic numbering, keyboard behavior, metadata, transforms, and three viewport sizes pass automated verification.
