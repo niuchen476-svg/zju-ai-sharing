@@ -44,3 +44,9 @@ V9 third-section case rebuild — 19 slides:
 - 13-typhoon-publish.png: GitHub Pages request, confirmation, final page, HTTPS status, and clickable live URL form a complete delivery proof.
 - 14-typhoon-method.png: human and AI responsibilities remain distinct; the five-step transferable loop and takeaway are readable at projector scale.
 - No screenshot clipping, broken local assets, transition residue, or footer collisions observed. V8 stage verification passes at all required viewport sizes.
+
+V11 fourth-section tools rebuild — 18 slides:
+- 15-chapter-plugins.png: divider reframed from abstract AI connectors to lightweight tools that immediately remove frequent friction.
+- 16-useful-tools-table.png: nine selected tools fit in one projector-readable table; Windows and browser rows are visually separated, and the speaker's current tools are clearly marked “你在用”.
+- The closing permission reminder is visually dominant without competing with the table. No wrapping, clipping, footer collision, or adjacent-slide residue observed.
+- Replaced two conceptual plugin pages with one concrete table; stage geometry, dynamic numbering, keyboard behavior, metadata, and all required viewport sizes pass V11 verification.
