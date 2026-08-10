@@ -68,3 +68,10 @@ V14 cover revision — 18 slides:
 - Removed the explanatory subtitle, 20–30 minute label, cross-disciplinary label, and lower-left English footer copy.
 - “分享人：董卓然” and “2026.08.10” sit beneath a single restrained divider; title, presenter line, hero image, counter, and bottom bar remain visually balanced with no clipping.
 - V14 deterministic verification passes stage geometry, metadata, keyboard behavior, dynamic numbering, and all required viewport sizes.
+
+V15 sixth-section access route — 20 slides:
+- 02-agenda.png: agenda expands cleanly to six items; the obsolete duration/cross-disciplinary footer is removed and the sixth route is visible without density or bottom-safety issues.
+- 19-chapter-foreign-ai.png: standalone 06 divider matches the established outlined-number chapter system and clearly states that only the preparation order will be covered.
+- 20-foreign-ai-route.png: three large cards establish the requested network → account → payment sequence. Compliance context, self-owned account recovery, official payment preference, and risk warnings are readable without turning the slide into a tutorial.
+- The bottom help line retains the speaker's invitation to private-message or search 98/B站, while reminding viewers to check dates and official instructions.
+- No clipping, collision, broken assets, or transition residue observed. V15 deterministic verification passes all required viewport sizes and 20-slide navigation.
