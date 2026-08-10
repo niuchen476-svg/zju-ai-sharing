@@ -86,3 +86,9 @@ V17 closing slide — 22 slides:
 - 22-closing-thanks.png: a dedicated dark closing page provides an unmistakable end beat after Chapter 06, using the existing blue, green, black, mono-label, footer, and outlined-type grammar.
 - “谢谢大家” is the single dominant message; the supporting sentence returns to the presentation's human-centered conclusion without introducing a new topic.
 - No clipping, collision, bottom-safety issue, or transition residue observed. V17 deterministic verification passes all required viewport sizes and 22-slide navigation.
+
+V18 theme callback and dual meaning — 23 slides:
+- 19-view-theme-return.png: Chapter 05 now explicitly returns to the cover question and explains its two intended layers: using AI tools well, and doing work with love, care, and responsibility.
+- The full-width dark title card is a real internal link. Clicking it returns to the `opening` slide, making the callback visible and usable during the talk.
+- The paired blue/green meaning panels preserve the established visual grammar and keep the pun clear without using the previously removed fixed expression.
+- No clipping, collision, bottom-safety issue, or transition residue observed. V18 deterministic verification passes all required viewport sizes and 23-slide navigation.
