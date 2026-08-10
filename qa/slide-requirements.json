@@ -7,7 +7,7 @@
   {"requirement":"第二板块第三页给出按任务选择 AI 的汇报结论","slideIds":["ai-selection-conclusion"],"evidence":"v7/08-ai-selection-conclusion.png full-size capture","status":"pass"},
   {"requirement":"第三板块以真实防台风网页为案例，展示提出需求、提供材料、补图迭代、失败重试和 GitHub Pages 交付","slideIds":["typhoon-result","typhoon-brief","typhoon-iteration","typhoon-publish","typhoon-method"],"evidence":"v9/10-typhoon-result.png through v9/14-typhoon-method.png full-size captures","status":"pass"},
   {"requirement":"第四板块用一张表挑选轻量、装完即提效的 Windows 工具和浏览器扩展，并突出分享者正在使用的工具","slideIds":["chapter-plugins","useful-tools-table"],"evidence":"v11/15-chapter-plugins.png and v11/16-useful-tools-table.png full-size captures","status":"pass"},
-  {"requirement":"第五板块表达人的理解、创造、沟通和责任","slideIds":["risk-and-future"],"evidence":"v11/18-risk-and-future.png","status":"pass"},
+  {"requirement":"第五板块将分享者的实践观点整理为人机协同、人与人连接、真实需求三层，并强调 AI 始终是工具、技术应当服务于人","slideIds":["chapter-view","risk-and-future"],"evidence":"v12/17-chapter-view.png and v12/18-risk-and-future.png full-size captures","status":"pass"},
   {"requirement":"不出现已删除的指定表达，也不保留结尾二维码","slideIds":["opening","risk-and-future"],"evidence":"repository text search returned no match; final capture contains no QR","status":"pass"},
   {"requirement":"18 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v11 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
 ]

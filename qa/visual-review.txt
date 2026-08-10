@@ -50,3 +50,9 @@ V11 fourth-section tools rebuild — 18 slides:
 - 16-useful-tools-table.png: nine selected tools fit in one projector-readable table; Windows and browser rows are visually separated, and the speaker's current tools are clearly marked “你在用”.
 - The closing permission reminder is visually dominant without competing with the table. No wrapping, clipping, footer collision, or adjacent-slide residue observed.
 - Replaced two conceptual plugin pages with one concrete table; stage geometry, dynamic numbering, keyboard behavior, metadata, and all required viewport sizes pass V11 verification.
+
+V12 final-view rewrite — 18 slides:
+- 17-chapter-view.png: the chapter divider now states the speaker's central position, “关于 AI 的思考 / 始终是人本”, with the real-demand principle visible in the supporting line.
+- 18-risk-and-future.png: the speaker's paragraph is edited into one core conclusion and three progressive relationships: human–AI collaboration, human–human connection, and human–need judgment.
+- The final sentence makes emotional connection and service to people the visual endpoint. Title, body copy, colored hierarchy, footer, and bottom safe area all pass full-size review.
+- The user-provided reference screenshot informed the editorial structure; it is not reproduced as a low-resolution slide asset. V12 deterministic verification passes at all required viewport sizes.
