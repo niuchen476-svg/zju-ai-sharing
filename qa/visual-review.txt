@@ -62,3 +62,9 @@ V13 official tool links — 18 slides:
 - uBlock and 猫抓 expose separate Firefox/Chrome store links; the remaining tools point to the official vendor, Microsoft Learn, project releases, or official landing page.
 - The footer explicitly tells the audience that blue addresses are clickable. Link labels, title, table cells, principle bar, and footer remain clear with no wrapping or collision.
 - Eleven HTTPS anchors are present in the tool table. Stage geometry, metadata, shortcuts, and all required viewport sizes pass V13 deterministic verification.
+
+V14 cover revision — 18 slides:
+- 01-opening.png: title updated to “今天，我们怎么更好地用 AI 做事？” with a balanced three-line break and the action phrase retained as the green focal point.
+- Removed the explanatory subtitle, 20–30 minute label, cross-disciplinary label, and lower-left English footer copy.
+- “分享人：董卓然” and “2026.08.10” sit beneath a single restrained divider; title, presenter line, hero image, counter, and bottom bar remain visually balanced with no clipping.
+- V14 deterministic verification passes stage geometry, metadata, keyboard behavior, dynamic numbering, and all required viewport sizes.
