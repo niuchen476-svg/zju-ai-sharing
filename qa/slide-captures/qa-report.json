@@ -6,7 +6,7 @@
     "width": 1920,
     "height": 1080
   },
-  "capturedAt": "2026-08-10T04:20:26.974Z",
+  "capturedAt": "2026-08-10T04:23:17.015Z",
   "slideCount": 14,
   "slides": [
     {
@@ -468,7 +468,22 @@
         "bottomWhitespace": 132.11,
         "bottomSafeZoneViolated": false,
         "overflow": false,
-        "images": []
+        "images": [
+          {
+            "src": "assets/pages-qr.png",
+            "alt": "演示页面二维码",
+            "naturalWidth": 620,
+            "naturalHeight": 620,
+            "rect": {
+              "left": 1169.59,
+              "top": 264.48,
+              "right": 1808,
+              "bottom": 902.89,
+              "width": 638.41,
+              "height": 638.41
+            }
+          }
+        ]
       }
     }
   ],

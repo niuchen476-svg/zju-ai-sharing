@@ -13,6 +13,6 @@ Full-size review completed for 01-opening.png through 14-risk-and-future.png.
 11 pass — full-stack layers balanced; text readable.
 12 pass — agent flow fits within stage; bottom loop note safe.
 13 pass — six-disciplinary grid and takeaway hierarchy clear.
-14 pass pending final QR replacement — layout otherwise passes.
+14 pass — final Pages QR embedded and layout remains balanced.
 
 No transition residue, adjacent-slide ghosting, broken assets, or bottom chrome collisions observed.
