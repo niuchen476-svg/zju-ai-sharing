@@ -1,0 +1,9 @@
+[
+  {"requirement":"20–30 分钟，跨专业学生","slideIds":["opening","disciplines"],"evidence":"01-opening.png, 13-disciplines.png","status":"pass"},
+  {"requirement":"科学上网相关主题，以全球信息获取与合规方式呈现","slideIds":["global-access"],"evidence":"06-global-access.png","status":"pass"},
+  {"requirement":"Vibe Coding","slideIds":["vibe-coding","coding-loop"],"evidence":"09-vibe-coding.png, 10-coding-loop.png","status":"pass"},
+  {"requirement":"国内外 AI 对比","slideIds":["model-comparison"],"evidence":"05-model-comparison.png","status":"pass"},
+  {"requirement":"前后端等基础技术","slideIds":["full-stack","agent"],"evidence":"11-full-stack.png, 12-agent.png","status":"pass"},
+  {"requirement":"多用图片与视觉辅助","slideIds":["opening","ai-map","vibe-coding","full-stack"],"evidence":"rendered full-size screenshots","status":"pass"},
+  {"requirement":"HTML 演示与键盘操作","slideIds":["opening"],"evidence":"verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
+]

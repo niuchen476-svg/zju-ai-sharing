@@ -1,0 +1,6 @@
+No external reference template provided.
+Direction: Tech Editorial, 1920x1080 fixed stage, near-black / warm ivory alternation, Zhejiang blue primary accent, acid green signal color.
+Grid: 112px outer margin; title baseline around 150px; dominant asymmetric compositions; bottom chrome protected at 48px.
+Typography: heavy CJK sans display, readable CJK sans body, monospace labels.
+Imagery: two original cinematic generated visuals; all explanatory diagrams are native HTML/CSS.
+Motion: restrained crossfade between slides, animated progress only; layout transforms isolated from slide content.

@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "target": "file:///C:/Users/lenovo/Documents/Codex/2026-08-09/new-chat-5/work/zju-ai-sharing/index.html",
+  "sourceName": "index.html",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "capturedAt": "2026-08-10T04:20:26.974Z",
+  "slideCount": 14,
+  "slides": [
+    {
+      "currentNumber": 1,
+      "slideId": "opening",
+      "originalNumber": "01",
+      "title": "AI：每个人的第二种能力",
+      "screenshot": "01-opening.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 112,
+          "top": 162.5,
+          "right": 742,
+          "bottom": 498.78,
+          "width": 630,
+          "height": 336.28
+        },
+        "titleBaseline": 498.78,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 162.5,
+          "right": 742,
+          "bottom": 617.78,
+          "width": 630,
+          "height": 455.28
+        },
+        "contentMeasurementSource": "semantic-content",
+        "topWhitespace": 162.5,
+        "bottomWhitespace": 462.22,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 2,
+      "slideId": "icebreaker",
+      "originalNumber": "02",
+      "title": "AI 已经进入日常",
+      "screenshot": "02-icebreaker.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 112,
+          "top": 249,
+          "right": 1612,
+          "bottom": 473.63,
+          "width": 1500,
+          "height": 224.63
+        },
+        "titleBaseline": 473.63,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 249,
+          "right": 1808,
+          "bottom": 721.63,
+          "width": 1696,
+          "height": 472.63
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 249,
+        "bottomWhitespace": 358.37,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 3,
+      "slideId": "ai-map",
+      "originalNumber": "03",
+      "title": "AI 生态地图",
+      "screenshot": "03-ai-map.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1292.02,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 515.98,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 907.89,
+          "width": 1696,
+          "height": 680
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 172.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 4,
+      "slideId": "capability-boundary",
+      "originalNumber": "04",
+      "title": "AI 的能力边界",
+      "screenshot": "04-capability-boundary.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 996,
+          "top": 253.61,
+          "right": 1808,
+          "bottom": 417.39,
+          "width": 812,
+          "height": 163.78
+        },
+        "titleBaseline": 417.39,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 112,
+          "right": 1808,
+          "bottom": 802,
+          "width": 1696,
+          "height": 690
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 112,
+        "bottomWhitespace": 278,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 5,
+      "slideId": "model-comparison",
+      "originalNumber": "05",
+      "title": "国内外 AI 生态对比",
+      "screenshot": "05-model-comparison.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 962.47,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 845.53,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 658.89,
+          "width": 1696,
+          "height": 431
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 421.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 6,
+      "slideId": "global-access",
+      "originalNumber": "06",
+      "title": "全球信息获取与合规",
+      "screenshot": "06-global-access.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 923.47,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 884.53,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 847.89,
+          "width": 1696,
+          "height": 620
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 232.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 7,
+      "slideId": "context-engineering",
+      "originalNumber": "07",
+      "title": "从 Prompt 到上下文工程",
+      "screenshot": "07-context-engineering.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1144.61,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 663.39,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 917.89,
+          "width": 1696,
+          "height": 690
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 162.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 8,
+      "slideId": "research",
+      "originalNumber": "08",
+      "title": "AI 如何帮助学习与科研",
+      "screenshot": "08-research.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 842.89,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 965.11,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 634.67,
+          "width": 1696,
+          "height": 406.78
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 445.33,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 9,
+      "slideId": "vibe-coding",
+      "originalNumber": "09",
+      "title": "Vibe Coding",
+      "screenshot": "09-vibe-coding.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 112,
+          "top": 638.63,
+          "right": 898.25,
+          "bottom": 857,
+          "width": 786.25,
+          "height": 218.38
+        },
+        "titleBaseline": 857,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 638.63,
+          "right": 898.25,
+          "bottom": 930,
+          "width": 786.25,
+          "height": 291.38
+        },
+        "contentMeasurementSource": "semantic-content",
+        "topWhitespace": 638.63,
+        "bottomWhitespace": 150,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 10,
+      "slideId": "coding-loop",
+      "originalNumber": "10",
+      "title": "Vibe Coding 的正确循环",
+      "screenshot": "10-coding-loop.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1017.47,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 790.53,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 259.89,
+          "right": 1808,
+          "bottom": 449.89,
+          "width": 1696,
+          "height": 190
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 259.89,
+        "bottomWhitespace": 630.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 11,
+      "slideId": "full-stack",
+      "originalNumber": "11",
+      "title": "前端后端数据库与部署",
+      "screenshot": "11-full-stack.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1144.61,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 663.39,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 229.89,
+          "right": 1808,
+          "bottom": 649.89,
+          "width": 1696,
+          "height": 420
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 229.89,
+        "bottomWhitespace": 430.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 12,
+      "slideId": "agent",
+      "originalNumber": "12",
+      "title": "从聊天到 Agent",
+      "screenshot": "12-agent.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1070.89,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 737.11,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 239.89,
+          "right": 1808,
+          "bottom": 499.89,
+          "width": 1696,
+          "height": 260
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 239.89,
+        "bottomWhitespace": 580.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 13,
+      "slideId": "disciplines",
+      "originalNumber": "13",
+      "title": "不同专业如何参与",
+      "screenshot": "13-disciplines.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 916.61,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 891.39,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 545.89,
+          "width": 1696,
+          "height": 318
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 534.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    },
+    {
+      "currentNumber": 14,
+      "slideId": "risk-and-future",
+      "originalNumber": "14",
+      "title": "边界与未来能力",
+      "screenshot": "14-risk-and-future.png",
+      "measurements": {
+        "stageScale": 1,
+        "titleRect": {
+          "left": 1365.73,
+          "top": 88,
+          "right": 1808,
+          "bottom": 169.89,
+          "width": 442.27,
+          "height": 81.89
+        },
+        "titleBaseline": 169.89,
+        "contentBoundingBox": {
+          "left": 112,
+          "top": 227.89,
+          "right": 1808,
+          "bottom": 947.89,
+          "width": 1696,
+          "height": 720
+        },
+        "contentMeasurementSource": "data-qa-content",
+        "topWhitespace": 227.89,
+        "bottomWhitespace": 132.11,
+        "bottomSafeZoneViolated": false,
+        "overflow": false,
+        "images": []
+      }
+    }
+  ],
+  "consoleErrors": []
+}

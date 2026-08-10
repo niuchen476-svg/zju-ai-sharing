@@ -1,0 +1,18 @@
+Full-size review completed for 01-opening.png through 14-risk-and-future.png.
+
+01 pass — hero crop, left title contrast, bottom chrome safe.
+02 pass — deliberate low-text audience interaction slide; strong hierarchy.
+03 pass — orbit diagram centered; nodes remain legible and balanced.
+04 pass — asymmetric numeral composition; no clipping.
+05 pass — comparison matrix readable; no over-dense copy.
+06 pass — process cards and arrows centered; compliance note clearly visible.
+07 pass — prompt example and formula balanced; paragraph wraps safely.
+08 pass — paper metaphor and checklist readable; no collision.
+09 pass — generated image crop supports left-bottom title; contrast passes.
+10 pass — four-step build loop and warning clear.
+11 pass — full-stack layers balanced; text readable.
+12 pass — agent flow fits within stage; bottom loop note safe.
+13 pass — six-disciplinary grid and takeaway hierarchy clear.
+14 pass pending final QR replacement — layout otherwise passes.
+
+No transition residue, adjacent-slide ghosting, broken assets, or bottom chrome collisions observed.
