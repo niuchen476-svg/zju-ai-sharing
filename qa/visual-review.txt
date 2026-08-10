@@ -17,3 +17,9 @@ Full-size review completed for 01-opening.png through 15-risk-and-future.png.
 15 pass — personal-view close has strong hierarchy, no QR, and no clipping.
 
 No transition residue, adjacent-slide ghosting, broken assets, or bottom chrome collisions observed.
+
+V5 revision review — 20 slides:
+- 02 agenda revised to one vertical 01–05 list; alignment, spacing, and hierarchy pass.
+- 03, 06, 09, 16, 19 are new chapter dividers with outlined numerals, independent pacing, and deliberate whitespace; all pass at full size.
+- Existing content slides are unchanged in composition and retain their prior full-size review status.
+- Dynamic footer numbering, central counter, keyboard navigation, metadata, assets, transforms, and three viewport sizes pass automated verification.
