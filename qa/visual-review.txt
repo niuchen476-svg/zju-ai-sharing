@@ -81,3 +81,8 @@ V16 original reflection note — 21 slides:
 - A concise left-hand editorial block explains the relationship between the polished conclusion and the original note, while the blue shadow frame visually separates source material from commentary.
 - The slide sits directly after the polished Chapter 05 viewpoint and before the Chapter 06 divider, creating a clear “conclusion → original evidence → next chapter” sequence.
 - No clipping, collision, broken asset, or adjacent-slide residue observed. V16 deterministic verification passes all required viewport sizes and 21-slide navigation.
+
+V17 closing slide — 22 slides:
+- 22-closing-thanks.png: a dedicated dark closing page provides an unmistakable end beat after Chapter 06, using the existing blue, green, black, mono-label, footer, and outlined-type grammar.
+- “谢谢大家” is the single dominant message; the supporting sentence returns to the presentation's human-centered conclusion without introducing a new topic.
+- No clipping, collision, bottom-safety issue, or transition residue observed. V17 deterministic verification passes all required viewport sizes and 22-slide navigation.

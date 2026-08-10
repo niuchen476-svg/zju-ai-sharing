@@ -10,5 +10,6 @@
   {"requirement":"第五板块将分享者的实践观点整理为人机协同、人与人连接、真实需求三层，并强调 AI 始终是工具、技术应当服务于人；整理后的观点页后保留分享者提供的原始手记截图","slideIds":["chapter-view","risk-and-future","view-original-note"],"evidence":"v16/17-chapter-view.png through v16/19-view-original-note.png full-size captures","status":"pass"},
   {"requirement":"第六板块不展开操作，只梳理获取国外 AI 的准备路线：合规稳定的网络环境、自己维护的 Google 账号、正规可控的支付渠道；不推荐成品号，并提示可私聊或去 98、B站查近期教程","slideIds":["chapter-foreign-ai","foreign-ai-route"],"evidence":"v16/20-chapter-foreign-ai.png and v16/21-foreign-ai-route.png full-size captures","status":"pass"},
   {"requirement":"不出现已删除的指定表达，也不保留结尾二维码","slideIds":["opening","risk-and-future"],"evidence":"repository text search returned no match; final capture contains no QR","status":"pass"},
-  {"requirement":"21 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v16 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
+  {"requirement":"汇报最后增加独立的‘谢谢大家’结束页，并延续整套演示的视觉语言","slideIds":["closing-thanks"],"evidence":"v17/22-closing-thanks.png full-size capture","status":"pass"},
+  {"requirement":"22 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v17 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
 ]
