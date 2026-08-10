@@ -23,3 +23,9 @@ V5 revision review — 20 slides:
 - 03, 06, 09, 16, 19 are new chapter dividers with outlined numerals, independent pacing, and deliberate whitespace; all pass at full size.
 - Existing content slides are unchanged in composition and retain their prior full-size review status.
 - Dynamic footer numbering, central counter, keyboard navigation, metadata, assets, transforms, and three viewport sizes pass automated verification.
+
+V6 first-section revision — 19 slides:
+- Removed the separate terminology card slide and relationship diagram.
+- 04-terms-table.png consolidates nine terms into one three-column reference table.
+- Full-size review passes for table alignment, row density, contrast, wrapping, footer safety, and projector readability.
+- Dynamic renumbering and all presentation interactions pass automated verification at three viewport sizes.

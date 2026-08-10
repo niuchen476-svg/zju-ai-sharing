@@ -1,11 +1,11 @@
 [
   {"requirement":"主题为《今天，我们怎么用 AI 做事？》并在封面后设置纵向单列目录","slideIds":["opening","agenda"],"evidence":"v5/01-opening.png, v5/02-agenda.png","status":"pass"},
   {"requirement":"五个板块开始前分别增加独立的小主题章节页","slideIds":["chapter-terms","chapter-models","chapter-practice","chapter-plugins","chapter-view"],"evidence":"v5/03, 06, 09, 16, 19 full-size captures","status":"pass"},
-  {"requirement":"第一板块解释 Skill、Tool、Loop、Harness、MCP、OpenClaw 等术语","slideIds":["icebreaker","ai-map","capability-boundary"],"evidence":"03–05 full-size captures","status":"pass"},
+  {"requirement":"第一板块只用一张表集中解释 Model、Product、Agent、Tool、Skill、MCP、Loop、Harness、OpenClaw","slideIds":["terms-table"],"evidence":"v6/04-terms-table.png full-size capture","status":"pass"},
   {"requirement":"第二板块按任务分析国内外模型和产品选择","slideIds":["model-comparison","global-access"],"evidence":"06–07 full-size captures","status":"pass"},
   {"requirement":"第三板块提供从任务简报到交付核验的实际操作过程","slideIds":["context-engineering","research","vibe-coding","coding-loop","full-stack"],"evidence":"08–12 full-size captures","status":"pass"},
   {"requirement":"第四板块介绍插件与连接器，并强调按问题选择","slideIds":["agent","disciplines"],"evidence":"13–14 full-size captures","status":"pass"},
   {"requirement":"第五板块表达人的理解、创造、沟通和责任","slideIds":["risk-and-future"],"evidence":"15-risk-and-future.png","status":"pass"},
   {"requirement":"不出现已删除的指定表达，也不保留结尾二维码","slideIds":["opening","risk-and-future"],"evidence":"repository text search returned no match; final capture contains no QR","status":"pass"},
-  {"requirement":"20 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v5 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
+  {"requirement":"19 页 HTML 演示交互与 16:9 舞台正常","slideIds":["opening"],"evidence":"v6 verify-html-ppt-stage exit 0 at 1280x720, 1440x900, 1920x1080","status":"pass"}
 ]
