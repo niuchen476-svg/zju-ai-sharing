@@ -75,3 +75,9 @@ V15 sixth-section access route — 20 slides:
 - 20-foreign-ai-route.png: three large cards establish the requested network → account → payment sequence. Compliance context, self-owned account recovery, official payment preference, and risk warnings are readable without turning the slide into a tutorial.
 - The bottom help line retains the speaker's invitation to private-message or search 98/B站, while reminding viewers to check dates and official instructions.
 - No clipping, collision, broken assets, or transition residue observed. V15 deterministic verification passes all required viewport sizes and 20-slide navigation.
+
+V16 original reflection note — 21 slides:
+- 19-view-original-note.png: the speaker-provided portrait screenshot is preserved as a large, readable source artifact instead of a decorative thumbnail.
+- A concise left-hand editorial block explains the relationship between the polished conclusion and the original note, while the blue shadow frame visually separates source material from commentary.
+- The slide sits directly after the polished Chapter 05 viewpoint and before the Chapter 06 divider, creating a clear “conclusion → original evidence → next chapter” sequence.
+- No clipping, collision, broken asset, or adjacent-slide residue observed. V16 deterministic verification passes all required viewport sizes and 21-slide navigation.
