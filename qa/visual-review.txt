@@ -56,3 +56,9 @@ V12 final-view rewrite — 18 slides:
 - 18-risk-and-future.png: the speaker's paragraph is edited into one core conclusion and three progressive relationships: human–AI collaboration, human–human connection, and human–need judgment.
 - The final sentence makes emotional connection and service to people the visual endpoint. Title, body copy, colored hierarchy, footer, and bottom safe area all pass full-size review.
 - The user-provided reference screenshot informed the editorial structure; it is not reproduced as a low-resolution slide asset. V12 deterministic verification passes at all required viewport sizes.
+
+V13 official tool links — 18 slides:
+- 16-useful-tools-table.png adds a compact blue official-download line under every tool name without increasing row height or reducing body copy size.
+- uBlock and 猫抓 expose separate Firefox/Chrome store links; the remaining tools point to the official vendor, Microsoft Learn, project releases, or official landing page.
+- The footer explicitly tells the audience that blue addresses are clickable. Link labels, title, table cells, principle bar, and footer remain clear with no wrapping or collision.
+- Eleven HTTPS anchors are present in the tool table. Stage geometry, metadata, shortcuts, and all required viewport sizes pass V13 deterministic verification.
